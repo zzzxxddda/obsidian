@@ -1,0 +1,6 @@
+- [ ]  Query Transformation 查询改写（HyDE、Multi-Query 策略） 🛫 2026-08-03  
+- [ ]  混合检索与重排（BM25 + Embedding 融合检索，集成 Reranker） 🛫 2026-08-04  
+- [ ]  RAG 评估体系搭建（使用 RAGAs/DeepEval 评测检索与生成质量） 🛫 2026-08-05  
+- [ ]  生产级向量数据库（Docker 部署 Milvus，掌握 Python SDK 操作） 🛫 2026-08-07  
+- [ ]  高级文档数据处理（使用 MinerU/Unstructured 解析复杂 PDF 表格） 🛫 2026-08-08  
+- [ ]  第 2 周总结与系统升级（将 Naive RAG 升级为 Advanced RAG 架构） 🛫 2026-08-09

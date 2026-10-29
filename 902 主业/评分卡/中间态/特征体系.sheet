@@ -1,0 +1,5599 @@
+[
+    {
+        "id": "69dc883a-522f-4c72-a7ab-c4b055af91b8",
+        "name": "Sheet1",
+        "plugin": "divams_spreadsheets_for_obsidian",
+        "config": {
+            "rowlen": {
+                "0": 22,
+                "1": 87,
+                "2": 87,
+                "3": 74,
+                "4": 109,
+                "5": 87,
+                "6": 74,
+                "7": 93,
+                "8": 56,
+                "9": 74,
+                "10": 93,
+                "11": 74,
+                "12": 74,
+                "13": 74,
+                "14": 56,
+                "15": 56,
+                "16": 74,
+                "17": 74,
+                "18": 74,
+                "19": 74
+            },
+            "merge": {
+                "1_0": {
+                    "rs": 6,
+                    "cs": 1,
+                    "r": 1,
+                    "c": 0
+                },
+                "1_1": {
+                    "rs": 6,
+                    "cs": 1,
+                    "r": 1,
+                    "c": 1
+                },
+                "1_2": {
+                    "rs": 6,
+                    "cs": 1,
+                    "r": 1,
+                    "c": 2
+                },
+                "1_3": {
+                    "rs": 6,
+                    "cs": 1,
+                    "r": 1,
+                    "c": 3
+                },
+                "1_4": {
+                    "rs": 2,
+                    "cs": 1,
+                    "r": 1,
+                    "c": 4
+                },
+                "3_4": {
+                    "rs": 2,
+                    "cs": 1,
+                    "r": 3,
+                    "c": 4
+                },
+                "7_0": {
+                    "rs": 5,
+                    "cs": 1,
+                    "r": 7,
+                    "c": 0
+                },
+                "7_1": {
+                    "rs": 5,
+                    "cs": 1,
+                    "r": 7,
+                    "c": 1
+                },
+                "7_2": {
+                    "rs": 5,
+                    "cs": 1,
+                    "r": 7,
+                    "c": 2
+                },
+                "7_3": {
+                    "rs": 5,
+                    "cs": 1,
+                    "r": 7,
+                    "c": 3
+                },
+                "8_4": {
+                    "rs": 3,
+                    "cs": 1,
+                    "r": 8,
+                    "c": 4
+                },
+                "12_0": {
+                    "rs": 4,
+                    "cs": 1,
+                    "r": 12,
+                    "c": 0
+                },
+                "12_1": {
+                    "rs": 4,
+                    "cs": 1,
+                    "r": 12,
+                    "c": 1
+                },
+                "12_2": {
+                    "rs": 4,
+                    "cs": 1,
+                    "r": 12,
+                    "c": 2
+                },
+                "12_3": {
+                    "rs": 4,
+                    "cs": 1,
+                    "r": 12,
+                    "c": 3
+                },
+                "12_4": {
+                    "rs": 2,
+                    "cs": 1,
+                    "r": 12,
+                    "c": 4
+                },
+                "14_4": {
+                    "rs": 2,
+                    "cs": 1,
+                    "r": 14,
+                    "c": 4
+                },
+                "16_0": {
+                    "rs": 4,
+                    "cs": 1,
+                    "r": 16,
+                    "c": 0
+                },
+                "16_1": {
+                    "rs": 4,
+                    "cs": 1,
+                    "r": 16,
+                    "c": 1
+                },
+                "16_2": {
+                    "rs": 4,
+                    "cs": 1,
+                    "r": 16,
+                    "c": 2
+                },
+                "16_3": {
+                    "rs": 4,
+                    "cs": 1,
+                    "r": 16,
+                    "c": 3
+                },
+                "17_4": {
+                    "rs": 3,
+                    "cs": 1,
+                    "r": 17,
+                    "c": 4
+                }
+            },
+            "borderInfo": [
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 0,
+                        "col_index": 0,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 0,
+                        "col_index": 1,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 0,
+                        "col_index": 2,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 0,
+                        "col_index": 3,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 0,
+                        "col_index": 4,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 0,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 0,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 0,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 0,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 1,
+                        "col_index": 0,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 1,
+                        "col_index": 1,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 1,
+                        "col_index": 2,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 1,
+                        "col_index": 3,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 1,
+                        "col_index": 4,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 1,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 1,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 1,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 1,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 2,
+                        "col_index": 4,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 2,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 2,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 2,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 2,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 3,
+                        "col_index": 4,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 3,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 3,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 3,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 3,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 4,
+                        "col_index": 4,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 4,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 4,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 4,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 4,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 5,
+                        "col_index": 4,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 5,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 5,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 5,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 5,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 6,
+                        "col_index": 0,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 6,
+                        "col_index": 1,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 6,
+                        "col_index": 2,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 6,
+                        "col_index": 3,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 6,
+                        "col_index": 4,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 6,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 6,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 6,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 6,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 7,
+                        "col_index": 0,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 7,
+                        "col_index": 1,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 7,
+                        "col_index": 2,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 7,
+                        "col_index": 3,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 7,
+                        "col_index": 4,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 7,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 7,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 7,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 7,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 8,
+                        "col_index": 4,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 8,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 8,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 8,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 8,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 9,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 9,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 9,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 9,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 10,
+                        "col_index": 4,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 10,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 10,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 10,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 10,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 11,
+                        "col_index": 0,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 11,
+                        "col_index": 1,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 11,
+                        "col_index": 2,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 11,
+                        "col_index": 3,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 11,
+                        "col_index": 4,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 11,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 11,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 11,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 11,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 12,
+                        "col_index": 0,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 12,
+                        "col_index": 1,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 12,
+                        "col_index": 2,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 12,
+                        "col_index": 3,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 12,
+                        "col_index": 4,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 12,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 12,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 12,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 12,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 13,
+                        "col_index": 4,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 13,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 13,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 13,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 13,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 14,
+                        "col_index": 4,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 14,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 14,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 14,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 14,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 15,
+                        "col_index": 4,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 15,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 15,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 15,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 15,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 16,
+                        "col_index": 4,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 16,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 16,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 16,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 16,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 17,
+                        "col_index": 4,
+                        "t": {
+                            "style": 0,
+                            "color": "initial"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 17,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 17,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 17,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 17,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 18,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 18,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 18,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 18,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 19,
+                        "col_index": 4,
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 19,
+                        "col_index": 5,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 19,
+                        "col_index": 6,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 19,
+                        "col_index": 7,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                },
+                {
+                    "rangeType": "cell",
+                    "value": {
+                        "row_index": 19,
+                        "col_index": 8,
+                        "l": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "r": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "t": {
+                            "style": 8,
+                            "color": "black"
+                        },
+                        "b": {
+                            "style": 8,
+                            "color": "black"
+                        }
+                    }
+                }
+            ],
+            "columnlen": {
+                "0": 117,
+                "1": 117,
+                "2": 117,
+                "3": 117,
+                "4": 117,
+                "5": 166,
+                "6": 237,
+                "7": 117,
+                "8": 463,
+                "9": 117,
+                "10": 117,
+                "11": 117,
+                "12": 117,
+                "13": 117,
+                "14": 117,
+                "15": 117,
+                "16": 117,
+                "17": 117,
+                "18": 117,
+                "19": 117,
+                "20": 117,
+                "21": 117,
+                "22": 117,
+                "23": 117,
+                "24": 117,
+                "25": 117,
+                "26": 117,
+                "27": 117,
+                "28": 117,
+                "29": 117,
+                "30": 117,
+                "31": 117,
+                "32": 117,
+                "33": 117,
+                "34": 117,
+                "35": 117,
+                "36": 117,
+                "37": 117,
+                "38": 117,
+                "39": 117,
+                "40": 117,
+                "41": 117,
+                "42": 117,
+                "43": 117,
+                "44": 117,
+                "45": 117,
+                "46": 117,
+                "47": 117,
+                "48": 117,
+                "49": 117,
+                "50": 117,
+                "51": 117,
+                "52": 117,
+                "53": 117,
+                "54": 117,
+                "55": 117,
+                "56": 117,
+                "57": 117,
+                "58": 117,
+                "59": 117
+            },
+            "customWidth": {
+                "5": 1,
+                "6": 1,
+                "8": 1
+            }
+        },
+        "celldata": [
+            {
+                "r": 0,
+                "c": 0,
+                "v": {
+                    "m": "评分卡",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "评分卡",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 0,
+                "c": 1,
+                "v": {
+                    "m": "生命周期",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "生命周期",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 0,
+                "c": 2,
+                "v": {
+                    "m": "核心目的",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "核心目的",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 0,
+                "c": 3,
+                "v": {
+                    "m": "核心目的解释",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "核心目的解释",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 0,
+                "c": 4,
+                "v": {
+                    "m": "5C大类",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "5C大类",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 0,
+                "c": 5,
+                "v": {
+                    "m": "特征子类",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "特征子类",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 0,
+                "c": 6,
+                "v": {
+                    "m": "业务逻辑\n  (Why)",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "业务逻辑\n  (Why)",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 0,
+                "c": 7,
+                "v": {
+                    "m": "主要数据来源",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "主要数据来源",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 0,
+                "c": 8,
+                "v": {
+                    "m": "细分特征 (What)",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "细分特征 (What)",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 1,
+                "c": 0,
+                "v": {
+                    "m": "A卡",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "A卡",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 6,
+                        "cs": 1,
+                        "r": 1,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 1,
+                "c": 1,
+                "v": {
+                    "m": "贷前",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "贷前",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 6,
+                        "cs": 1,
+                        "r": 1,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 1,
+                "c": 2,
+                "v": {
+                    "m": "预筛选与客户授信",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "预筛选与客户授信",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 6,
+                        "cs": 1,
+                        "r": 1,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 1,
+                "c": 3,
+                "v": {
+                    "m": "准入：这个人现在看起来怎么样？",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "准入：这个人现在看起来怎么样？",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 6,
+                        "cs": 1,
+                        "r": 1,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 1,
+                "c": 4,
+                "v": {
+                    "m": "品德",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "品德",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 2,
+                        "cs": 1,
+                        "r": 1,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 1,
+                "c": 5,
+                "v": {
+                    "m": "基本属性",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "基本属性",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 1,
+                "c": 6,
+                "v": {
+                    "m": "评估用户生活的稳定性，稳定性越高，违约成本越高。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "评估用户生活的稳定性，稳定性越高，违约成本越高。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 1,
+                "c": 7,
+                "v": {
+                    "m": "申请表、征信报告",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "申请表、征信报告",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 1,
+                "c": 8,
+                "v": {
+                    "m": "年龄、性别、婚姻状况、最高学历、户籍地与居住地一致性、当前住房性质（自有/租房）",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "年龄、性别、婚姻状况、最高学历、户籍地与居住地一致性、当前住房性质（自有/租房）",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 2,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 2,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 2,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 2,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 2,
+                "c": 4,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 2,
+                "c": 5,
+                "v": {
+                    "m": "信用历史",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "信用历史",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 2,
+                "c": 6,
+                "v": {
+                    "m": "历史履约意愿的“惯性”证据。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "历史履约意愿的“惯性”证据。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 2,
+                "c": 7,
+                "v": {
+                    "m": "征信报告",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "征信报告",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 2,
+                "c": 8,
+                "v": {
+                    "m": "未结清贷款数、历史最高逾期天数、信贷历史长度（账龄）、信用卡使用率",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "未结清贷款数、历史最高逾期天数、信贷历史长度（账龄）、信用卡使用率",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 3,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 3,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 3,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 3,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 3,
+                "c": 4,
+                "v": {
+                    "m": "还款能力",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "还款能力",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 2,
+                        "cs": 1,
+                        "r": 3,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 3,
+                "c": 5,
+                "v": {
+                    "m": "职业与收入",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "职业与收入",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 3,
+                "c": 6,
+                "v": {
+                    "m": "核心还款能力指标。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "核心还款能力指标。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 3,
+                "c": 7,
+                "v": {
+                    "m": "收入证明、银行流水、社保/公积金",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "收入证明、银行流水、社保/公积金",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 3,
+                "c": 8,
+                "v": {
+                    "m": "行业性质（如公务员 vs 外卖员）、现单位工龄、月收入总额、公积金缴纳基数",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "行业性质（如公务员 vs 外卖员）、现单位工龄、月收入总额、公积金缴纳基数",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 4,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 4,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 4,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 4,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 4,
+                "c": 4,
+                "v": {
+                    "mc": {
+                        "r": 3,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 4,
+                "c": 5,
+                "v": {
+                    "m": "多头与共债",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "多头与共债",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 4,
+                "c": 6,
+                "v": {
+                    "m": "评估资金饥渴度，侧面反映还款压力。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "评估资金饥渴度，侧面反映还款压力。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 4,
+                "c": 7,
+                "v": {
+                    "m": "征信报告、三方数据",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "征信报告、三方数据",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 4,
+                "c": 8,
+                "v": {
+                    "m": "近3/6个月征信查询次数、近1个月非银机构申请笔数、当前总负债额、收入负债比（DTI）",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "近3/6个月征信查询次数、近1个月非银机构申请笔数、当前总负债额、收入负债比（DTI）",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 5,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 5,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 5,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 5,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 5,
+                "c": 4,
+                "v": {
+                    "m": "抵押物",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "抵押物",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 5,
+                "c": 5,
+                "v": {
+                    "m": "担保品属性",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "担保品属性",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 5,
+                "c": 6,
+                "v": {
+                    "m": "当第一还款来源中断时，提供第二还款保障。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "当第一还款来源中断时，提供第二还款保障。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 5,
+                "c": 7,
+                "v": {
+                    "m": "资产评估报告、产权证明",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "资产评估报告、产权证明",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 5,
+                "c": 8,
+                "v": {
+                    "m": "抵押率（LTV）、抵押物类型（房产/设备/存货）、变现能力（流动性）、产权清晰度",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "抵押率（LTV）、抵押物类型（房产/设备/存货）、变现能力（流动性）、产权清晰度",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 6,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 6,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 6,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 6,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 1,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 6,
+                "c": 4,
+                "v": {
+                    "m": "宏观环境",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "宏观环境",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 6,
+                "c": 5,
+                "v": {
+                    "m": "行业与区域",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "行业与区域",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 6,
+                "c": 6,
+                "v": {
+                    "m": "评估外部系统性风险对客户的影响。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "评估外部系统性风险对客户的影响。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 6,
+                "c": 7,
+                "v": {
+                    "m": "行业研究报告、区域经济数据",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "行业研究报告、区域经济数据",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 6,
+                "c": 8,
+                "v": {
+                    "m": "行业周期阶段、政策监管风险、区域经济稳定性、地区主导产业景气度",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "行业周期阶段、政策监管风险、区域经济稳定性、地区主导产业景气度",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 7,
+                "c": 0,
+                "v": {
+                    "m": "B卡",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "B卡",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 5,
+                        "cs": 1,
+                        "r": 7,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 7,
+                "c": 1,
+                "v": {
+                    "m": "贷中",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "贷中",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 5,
+                        "cs": 1,
+                        "r": 7,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 7,
+                "c": 2,
+                "v": {
+                    "m": "风险监控与额度调整",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "风险监控与额度调整",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 5,
+                        "cs": 1,
+                        "r": 7,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 7,
+                "c": 3,
+                "v": {
+                    "m": "变化：这个人最近怎么样？是不是变穷了？",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "变化：这个人最近怎么样？是不是变穷了？",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 5,
+                        "cs": 1,
+                        "r": 7,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 7,
+                "c": 4,
+                "v": {
+                    "m": "还款行为",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "还款行为",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 7,
+                "c": 5,
+                "v": {
+                    "m": "还款习惯",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "还款习惯",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 7,
+                "c": 6,
+                "v": {
+                    "m": "实时反映还款意愿的波动。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "实时反映还款意愿的波动。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 7,
+                "c": 7,
+                "v": {
+                    "m": "银行内部还款流水",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "银行内部还款流水",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 7,
+                "c": 8,
+                "v": {
+                    "m": "平均还款提前天数、是否经常使用最低还款、还款失败次数（余额不足）、还款资金来源稳定性",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "平均还款提前天数、是否经常使用最低还款、还款失败次数（余额不足）、还款资金来源稳定性",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 8,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 8,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 8,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 8,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 8,
+                "c": 4,
+                "v": {
+                    "m": "用款行为",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "用款行为",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 3,
+                        "cs": 1,
+                        "r": 8,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 8,
+                "c": 5,
+                "v": {
+                    "m": "账户活跃度",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "账户活跃度",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 8,
+                "c": 6,
+                "v": {
+                    "m": "评估用户对产品的依赖度和使用习惯。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "评估用户对产品的依赖度和使用习惯。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 8,
+                "c": 7,
+                "v": {
+                    "m": "APP埋点数据",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "APP埋点数据",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 8,
+                "c": 8,
+                "v": {
+                    "m": "近30天APP登录次数、单次停留时长、核心功能页面点击频次",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "近30天APP登录次数、单次停留时长、核心功能页面点击频次",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 9,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 9,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 9,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 9,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 9,
+                "c": 4,
+                "v": {
+                    "mc": {
+                        "r": 8,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 9,
+                "c": 5,
+                "v": {
+                    "m": "授信利用",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "授信利用",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 9,
+                "c": 6,
+                "v": {
+                    "m": "资金压力预警信号。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "资金压力预警信号。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 9,
+                "c": 7,
+                "v": {
+                    "m": "交易流水、账户信息",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "交易流水、账户信息",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 9,
+                "c": 8,
+                "v": {
+                    "m": "额度使用率（Utilization）、近3个月平均账单金额、分期剩余本金占比",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "额度使用率（Utilization）、近3个月平均账单金额、分期剩余本金占比",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 10,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 10,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 10,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 10,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 10,
+                "c": 4,
+                "v": {
+                    "mc": {
+                        "r": 8,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 10,
+                "c": 5,
+                "v": {
+                    "m": "行为突变",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "行为突变",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 10,
+                "c": 6,
+                "v": {
+                    "m": "捕捉风险“黑天鹅”信号，如突发异常交易。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "捕捉风险“黑天鹅”信号，如突发异常交易。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 10,
+                "c": 7,
+                "v": {
+                    "m": "交易流水、商户MCC",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "交易流水、商户MCC",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 10,
+                "c": 8,
+                "v": {
+                    "m": "近1个月交易金额较前3个月均值的比例、消费类别偏移（如突然涉足博彩类商户）、大额夜间消费",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "近1个月交易金额较前3个月均值的比例、消费类别偏移（如突然涉足博彩类商户）、大额夜间消费",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 11,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 11,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 11,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 11,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 7,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 11,
+                "c": 4,
+                "v": {
+                    "m": "财富变化",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "财富变化",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 11,
+                "c": 5,
+                "v": {
+                    "m": "资产变动",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "资产变动",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 11,
+                "c": 6,
+                "v": {
+                    "m": "评估客户财富实力的动态变化。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "评估客户财富实力的动态变化。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 11,
+                "c": 7,
+                "v": {
+                    "m": "银行内部存款/理财数据",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "银行内部存款/理财数据",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 11,
+                "c": 8,
+                "v": {
+                    "m": "存款余额变动趋势、理财资产增减、在银行的总资产规模（AUM）是否下降",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "存款余额变动趋势、理财资产增减、在银行的总资产规模（AUM）是否下降",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 12,
+                "c": 0,
+                "v": {
+                    "m": "C卡",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "C卡",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 4,
+                        "cs": 1,
+                        "r": 12,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 12,
+                "c": 1,
+                "v": {
+                    "m": "贷后",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "贷后",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 4,
+                        "cs": 1,
+                        "r": 12,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 12,
+                "c": 2,
+                "v": {
+                    "m": "催收策略与深度挖掘",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "催收策略与深度挖掘",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 4,
+                        "cs": 1,
+                        "r": 12,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 12,
+                "c": 3,
+                "v": {
+                    "m": "回款：怎么把损失降到最低？",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "回款：怎么把损失降到最低？",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 4,
+                        "cs": 1,
+                        "r": 12,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 12,
+                "c": 4,
+                "v": {
+                    "m": "还款意愿",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "还款意愿",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 2,
+                        "cs": 1,
+                        "r": 12,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 12,
+                "c": 5,
+                "v": {
+                    "m": "催收响应度",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "催收响应度",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 12,
+                "c": 6,
+                "v": {
+                    "m": "评估可联络性与还款诚意。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "评估可联络性与还款诚意。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 12,
+                "c": 7,
+                "v": {
+                    "m": "催收系统记录、通话记录",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "催收系统记录、通话记录",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 12,
+                "c": 8,
+                "v": {
+                    "m": "催收电话接通率、承诺还款（PTP）次数、PTP达成率（是否失信）",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "催收电话接通率、承诺还款（PTP）次数、PTP达成率（是否失信）",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 13,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 13,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 13,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 13,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 13,
+                "c": 4,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 13,
+                "c": 5,
+                "v": {
+                    "m": "联络有效性",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "联络有效性",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 13,
+                "c": 6,
+                "v": {
+                    "m": "确定追索路径的可靠性。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "确定追索路径的可靠性。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 13,
+                "c": 7,
+                "v": {
+                    "m": "申请表、第三方数据",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "申请表、第三方数据",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 13,
+                "c": 8,
+                "v": {
+                    "m": "第一联系人有效性、地址真实性验证、社交媒体/外部关联数据更新频率",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "第一联系人有效性、地址真实性验证、社交媒体/外部关联数据更新频率",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 14,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 14,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 14,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 14,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 14,
+                "c": 4,
+                "v": {
+                    "m": "剩余还款能力",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "剩余还款能力",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 2,
+                        "cs": 1,
+                        "r": 14,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 14,
+                "c": 5,
+                "v": {
+                    "m": "逾期程度",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "逾期程度",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 14,
+                "c": 6,
+                "v": {
+                    "m": "衡量当前风险的严重性，间接反映能力恶化程度。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "衡量当前风险的严重性，间接反映能力恶化程度。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 14,
+                "c": 7,
+                "v": {
+                    "m": "贷款账户信息",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "贷款账户信息",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 14,
+                "c": 8,
+                "v": {
+                    "m": "DPD（逾期天数）、当前欠款本金金额、利息及违约金占比",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "DPD（逾期天数）、当前欠款本金金额、利息及违约金占比",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 15,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 15,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 15,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 15,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 12,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 15,
+                "c": 4,
+                "v": {
+                    "mc": {
+                        "r": 14,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 15,
+                "c": 5,
+                "v": {
+                    "m": "历史回款率",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "历史回款率",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 15,
+                "c": 6,
+                "v": {
+                    "m": "基于历史表现预测未来回款可能性。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "基于历史表现预测未来回款可能性。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 15,
+                "c": 7,
+                "v": {
+                    "m": "历史催收数据",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "历史催收数据",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 15,
+                "c": 8,
+                "v": {
+                    "m": "历史M1阶段回款成功率、平均清偿时长、曾用催收手段的敏感度",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "历史M1阶段回款成功率、平均清偿时长、曾用催收手段的敏感度",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 16,
+                "c": 0,
+                "v": {
+                    "m": "F卡",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "F卡",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 4,
+                        "cs": 1,
+                        "r": 16,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 16,
+                "c": 1,
+                "v": {
+                    "m": "全流程",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "全流程",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 4,
+                        "cs": 1,
+                        "r": 16,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 16,
+                "c": 2,
+                "v": {
+                    "m": "欺诈行为识别",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "欺诈行为识别",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 4,
+                        "cs": 1,
+                        "r": 16,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 16,
+                "c": 3,
+                "v": {
+                    "m": "真假：这个人是不是骗子？",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "真假：这个人是不是骗子？",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 4,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 4,
+                        "cs": 1,
+                        "r": 16,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 16,
+                "c": 4,
+                "v": {
+                    "m": "身份真实性",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "身份真实性",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 16,
+                "c": 5,
+                "v": {
+                    "m": "身份核验",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "身份核验",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 16,
+                "c": 6,
+                "v": {
+                    "m": "验证申请人是否为本人，防止伪冒。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "验证申请人是否为本人，防止伪冒。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 16,
+                "c": 7,
+                "v": {
+                    "m": "公安接口、人脸识别",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "公安接口、人脸识别",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 16,
+                "c": 8,
+                "v": {
+                    "m": "实名认证一致性、活体检测得分、身份证照片与公安网照片比对值、证件是否曾挂失",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "实名认证一致性、活体检测得分、身份证照片与公安网照片比对值、证件是否曾挂失",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 17,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 17,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 17,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 17,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 17,
+                "c": 4,
+                "v": {
+                    "m": "行为真实性",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "行为真实性",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0,
+                    "mc": {
+                        "rs": 3,
+                        "cs": 1,
+                        "r": 17,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 17,
+                "c": 5,
+                "v": {
+                    "m": "设备指纹",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "设备指纹",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 17,
+                "c": 6,
+                "v": {
+                    "m": "识别非本人操作或机器攻击。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "识别非本人操作或机器攻击。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 17,
+                "c": 7,
+                "v": {
+                    "m": "设备信息、IP",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "设备信息、IP",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 17,
+                "c": 8,
+                "v": {
+                    "m": "设备唯一标识符、是否使用模拟器、是否Root/越狱、相同IP下的申请人数",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "设备唯一标识符、是否使用模拟器、是否Root/越狱、相同IP下的申请人数",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 18,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 18,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 18,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 18,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 18,
+                "c": 4,
+                "v": {
+                    "mc": {
+                        "r": 17,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 18,
+                "c": 5,
+                "v": {
+                    "m": "关系网络",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "关系网络",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 18,
+                "c": 6,
+                "v": {
+                    "m": "识别团伙欺诈风险。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "识别团伙欺诈风险。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 18,
+                "c": 7,
+                "v": {
+                    "m": "关联图谱、黑名单库",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "关联图谱、黑名单库",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 18,
+                "c": 8,
+                "v": {
+                    "m": "一度/二度关系中黑名单人数、紧急联系人与黑中介的关联度、申请人之间的地理重合度",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "一度/二度关系中黑名单人数、紧急联系人与黑中介的关联度、申请人之间的地理重合度",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 19,
+                "c": 0,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 0
+                    }
+                }
+            },
+            {
+                "r": 19,
+                "c": 1,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 1
+                    }
+                }
+            },
+            {
+                "r": 19,
+                "c": 2,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 2
+                    }
+                }
+            },
+            {
+                "r": 19,
+                "c": 3,
+                "v": {
+                    "mc": {
+                        "r": 16,
+                        "c": 3
+                    }
+                }
+            },
+            {
+                "r": 19,
+                "c": 4,
+                "v": {
+                    "mc": {
+                        "r": 17,
+                        "c": 4
+                    }
+                }
+            },
+            {
+                "r": 19,
+                "c": 5,
+                "v": {
+                    "m": "埋点行为",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "埋点行为",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 19,
+                "c": 6,
+                "v": {
+                    "m": "识别中介代办或伪造行为。",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "识别中介代办或伪造行为。",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 19,
+                "c": 7,
+                "v": {
+                    "m": "申请行为埋点",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "申请行为埋点",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            },
+            {
+                "r": 19,
+                "c": 8,
+                "v": {
+                    "m": "申请页面停留总时长、信息填写时的“复制粘贴”频率、输入速度是否过快（非人类操作）",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "申请页面停留总时长、信息填写时的“复制粘贴”频率、输入速度是否过快（非人类操作）",
+                    "bl": 1,
+                    "it": 0,
+                    "ff": 1,
+                    "fs": 10,
+                    "fc": "#1F1F1F",
+                    "ht": 0,
+                    "vt": 0
+                }
+            }
+        ],
+        "calcChain": []
+    }
+]
